@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 
-//Jennifer Phan & Mariam Omer
+//Mariam Omer and Jennifer Phan
 void main() {
   runApp(MaterialApp(
     home: DigitalPetApp(),
